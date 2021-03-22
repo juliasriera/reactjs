@@ -1,6 +1,3 @@
-
-import react from "react"
-import ReactDOM from "react-dom"
 import logo from './logo.svg';
 import './App.css';
 import Mybook from './book.js';
